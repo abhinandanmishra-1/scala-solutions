@@ -30,3 +30,11 @@
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Word Break](https://leetcode.com/problems/word-break/description/?envType=study-plan-v2&envId=top-interview-150)
+
+### Day 5
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/?envType=study-plan-v2&envId=top-interview-150)
+- [Decode String](https://leetcode.com/problems/decode-string/description/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+- [House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Clone Graph](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)
