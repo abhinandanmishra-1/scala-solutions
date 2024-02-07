@@ -38,3 +38,9 @@
 - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
 - [House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Clone Graph](https://leetcode.com/problems/clone-graph/?envType=study-plan-v2&envId=top-interview-150)
+
+### Day 6
+- [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150)
