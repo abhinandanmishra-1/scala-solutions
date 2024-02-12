@@ -44,3 +44,10 @@
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Triangle](https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150)
+
+### Day 7 
+- [Edit Distance](https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=top-interview-150)
+
